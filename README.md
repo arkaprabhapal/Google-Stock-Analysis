@@ -1,11 +1,5 @@
 # Google-Stock-Analysis
 https://colab.research.google.com/drive/1k1_FRopQYCMNfxE8KT4j0LV1I17d-XUw?usp=sharing
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
-from keras.layers import Dense,LSTM,Dropout
-data = pd.read_csv('Google_train_data.csv')
-data.head()
+![image](https://github.com/user-attachments/assets/96a8c5f5-8cbc-4783-90c8-4ce5ea9529a4)
+
